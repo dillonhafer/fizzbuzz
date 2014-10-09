@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FizzbuzzJac::VERSION
   spec.authors       = ["jacqueline-homan"]
   spec.email         = ["jacquelinehoman7@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = 'FizzBuzz Kata'
+  spec.description   = 'Output FizzBuzz'
   spec.homepage      = ""
   spec.license       = "MIT"
 
